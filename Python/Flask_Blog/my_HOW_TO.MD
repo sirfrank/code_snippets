@@ -28,7 +28,8 @@ source Project_name_here/bin/activate
 2/ templates (for all templates)
 
 ## create structure files
-1/ create layout.html
-2/ create home/about etc .html-s
+1/ create layout.html  (bootstrap header, header, bootstrap body, etc, pl: google analitics)
+
+2/ create home/about etc .html-s, inheriting static stuff from layout.html
 
 
