@@ -16,7 +16,7 @@ source Project_name_here/bin/activate
 
 # start flask server
 
-(command line:) export FLASK_APP=any_name.py
-flask run
+1/ (command line:) export FLASK_APP=any_name.py
+2/ flask run
 
 
