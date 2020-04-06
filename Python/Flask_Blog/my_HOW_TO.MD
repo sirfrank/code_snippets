@@ -17,11 +17,13 @@ source Project_name_here/bin/activate
 # start flask server
 
 1/ (command line:) export FLASK_APP=any_name.py
+
 2/ flask run
 
 # create main folders
 
 1 / static (for css files)
+
 2/ templates (for all templates)
 
 
