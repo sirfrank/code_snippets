@@ -38,6 +38,6 @@ source Project_name_here/bin/activate
 def home():
     return render_template('home.html')
     
-![alt text](http://https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F97%2FClassic_smiley.svg%2F770px-Classic_smiley.svg.png&f=1&nofb=1)
+![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F97%2FClassic_smiley.svg%2F770px-Classic_smiley.svg.png&f=1&nofb=1)
 
 
