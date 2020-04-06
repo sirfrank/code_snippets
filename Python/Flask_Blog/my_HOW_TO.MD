@@ -20,10 +20,15 @@ source Project_name_here/bin/activate
 
 2/ flask run
 
-# create main folders
+# create structure
+## create folders
 
 1 / static (for css files)
 
 2/ templates (for all templates)
+
+## create structure files
+1/ create layout.html
+2/ create home/about etc .html-s
 
 
