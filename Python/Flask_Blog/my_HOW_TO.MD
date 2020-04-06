@@ -43,7 +43,9 @@ layout.html MUST HAVE in the body:
 3/ edit any_name.py @app.route decorators like this : 
 
 @app.route("/home")
+
 def home():
+
     return render_template('home.html')
     
 
