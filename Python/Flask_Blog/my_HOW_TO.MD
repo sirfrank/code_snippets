@@ -12,11 +12,16 @@ source Project_name_here/bin/activate
 
 ## files
 
-0/ create file for app (any_name.py)
+0/ create file for app (any_name.py) THIS HOLDS ALL @app.route decorators for all file locations
 
 # start flask server
 
 1/ (command line:) export FLASK_APP=any_name.py
 2/ flask run
+
+# create main folders
+
+1 / static (for css files)
+2/ templates (for all templates)
 
 
