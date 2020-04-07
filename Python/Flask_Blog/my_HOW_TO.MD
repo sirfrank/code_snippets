@@ -52,19 +52,22 @@ def home():
 
 1/ create or use existing pythoneverywhere account.
 ## github
+
 2/ on development device create new repo.
+
 3/ create new repo on github (import repo from local --nem emlékszem pontosan, kb igy )
 
 ## pythoneverywhere
 4/ on pythoneverywhere use console and git pull.
+
 5/ set fecasoft_pythonanywhere_com_wsgi.py  -> set app name -> set 
 '''
-# add your project directory to the sys.path
+'#' add your project directory to the sys.path
 project_home = '/home/FecaSoft/FLASK_tut'
 '''
 
 '''
-# import flask app but need to call it "application" for WSGI to work
+'#' import flask app but need to call it "application" for WSGI to work
 from tutorial import app as application  # noqa
 '''
     
