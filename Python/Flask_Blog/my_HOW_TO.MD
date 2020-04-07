@@ -64,11 +64,13 @@ def home():
 
 '''
 '#' add your project directory to the sys.path
+
 project_home = '/home/FecaSoft/FLASK_tut'
 '''
 
 '''
 '#' import flask app but need to call it "application" for WSGI to work
+
 from tutorial import app as application  # noqa
 '''
     
