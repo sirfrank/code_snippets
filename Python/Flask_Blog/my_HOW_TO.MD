@@ -61,6 +61,7 @@ def home():
 4/ on pythoneverywhere use console and git pull.
 
 5/ set fecasoft_pythonanywhere_com_wsgi.py  -> set app name -> set 
+
 '''
 '#' add your project directory to the sys.path
 project_home = '/home/FecaSoft/FLASK_tut'
