@@ -60,19 +60,19 @@ def home():
 ## pythoneverywhere
 4/ on pythoneverywhere use console and git pull.
 
-5/ set fecasoft_pythonanywhere_com_wsgi.py  -> set app name -> set 
+5/ set fecasoft_pythonanywhere_com_wsgi.py  -> set app name -> set path to app
 
-'''
+>>>
 '#' add your project directory to the sys.path
 
 project_home = '/home/FecaSoft/FLASK_tut'
-'''
+<<<
 
-'''
+>>>
 '#' import flask app but need to call it "application" for WSGI to work
 
 from tutorial import app as application  # noqa
-'''
+<<<
     
 
 
